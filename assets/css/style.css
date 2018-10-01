@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	height: 100vh;
+}
+
+
+.carouselExampleFade{
+	/*margin: 0 auto;*/
+}
+/*
+
+img{
+	padding-top: 10%;
+	height: 200px;
+	object-fit: cover;
+}*/
+
+#sofa{
+	height: 200px;
+	object-fit: cover;
+}
